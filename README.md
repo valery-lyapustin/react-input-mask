@@ -8,8 +8,6 @@
 
 Input masking component for React. Made with attention to UX.
 
-**This is a development branch for version 3.0. For the latest stable version [see v2 branch](https://github.com/sanniassin/react-input-mask/tree/v2).**
-
 #### [Demo](http://sanniassin.github.io/react-input-mask/demo.html)
 
 # Table of Contents
