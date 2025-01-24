@@ -1,7 +1,5 @@
 # react-input-mask
 
-**This is a development branch for version 3.0. For the latest stable version [see v2 branch](https://github.com/sanniassin/react-input-mask/tree/v2).**
-
 ### Updates
 - The component has been upgraded to include support for React 19.
 - The usage of `findDOMNode` has been revised due to deprecated functionalities.
